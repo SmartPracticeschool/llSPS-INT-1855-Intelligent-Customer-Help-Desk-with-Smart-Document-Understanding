@@ -1,5 +1,6 @@
 # Intelligent Customer Help Desk with Smart Document Understanding
-Project Demo - https://youtu.be/PDhXQVHFA7c<br><br>
+Project Demo - https://youtu.be/PDhXQVHFA7c<br>
+Internship Experience - https://youtu.be/SUt8WwCboEA<br><br>
 Smart Bridge 4 Week Internship <br>
 Ref - https://github.com/ibm/watson-discovery-sdu-with-assistant
 
